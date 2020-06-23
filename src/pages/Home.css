@@ -1,0 +1,50 @@
+.a{
+    color:black;
+    font-size: 100;
+}
+.b{
+    text-align:left;
+}
+.slide-container {
+    width: 90%;
+    margin: auto; }
+   
+  h3 {
+    text-align: center; }
+   
+  .each-slide > div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-size: cover;
+    height: 1000px;
+  }
+   
+  .each-slide span {
+    padding: 20px;
+    font-size: 20px;
+    background: #efefef;
+    text-align: center;
+  }
+   
+  .each-fade {
+    display: flex;
+  }
+   
+  .each-fade .image-container {
+    width: 75%;
+    overflow: hidden;
+  }
+   
+  .each-fade .image-container img {
+    width: 100%;
+  }
+   
+  .each-fade h2 {
+    width: 25%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    background: #adceed;
+  }
