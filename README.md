@@ -6,3 +6,9 @@ It helps in creating a To-do-list which helps in storing the tasks that are to b
 
 A slide show of images can also be added.
 ![](images/second.png)
+
+The clock helps in setting a timer for when you need to set a goal that has to be done quick.A red light blinks when the goal is done.
+![](images/third.png)
+![](images/fourth.png)
+The Tasks to be done,the pending tasks and the tasks that are over can be seen in this.The tasks that are done can be crossed over.
+![](images/fifth.png)
